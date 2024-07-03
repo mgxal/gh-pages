@@ -1,0 +1,10 @@
+[submodule "kryst.me/public"]
+	path = kryst.me/public
+	url = https://github.com/mgxal/mgxal.github.io.git
+	branch = main
+[submodule "kryst.me/themes/beautifulhugo"]
+	path = kryst.me/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "kryst.me/themes/mini"]
+	path = kryst.me/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git

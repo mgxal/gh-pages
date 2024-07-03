@@ -1,0 +1,4 @@
+baseURL = 'https://mgxal.github.io/'
+languageCode = 'en-us'
+title = 'Simple as a diary, quick as a sketchbook'
+theme = "mini"
